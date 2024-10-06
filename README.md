@@ -40,16 +40,16 @@ npm install
 Before running the project, make sure the JSON server is running for handling the mock data. In the root directory, run:
 ```bash
 npx json-server --watch db.json --port 3000
-This will start the JSON server on http://localhost:3000.
 ```
+This will start the JSON server on http://localhost:3000.
 
 ### Step 4: Start the Development Server
 To start the Vue.js development server, run:
 
 ```bash
 npm run dev
-The application should be available at http://localhost:5173.
 ```
+The application should be available at http://localhost:5173.
 
 ## Project Structure
 ```bash
